@@ -9,6 +9,22 @@
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+## 📑 Table of Contents
+
+- [📖 Overview](#-overview)
+- [🎯 Project Objectives](#-project-objectives)
+- [✨ Features](#-features)
+- [📚 Project Modules](#-project-modules)
+- [🏗️ Lab Architecture](#️-lab-architecture)
+- [🛠️ Technologies](#️-technologies)
+- [📂 Repository Structure](#-repository-structure)
+- [🚀 Installation](#-installation)
+- [🧪 Testing](#-testing)
+- [📊 Dashboards](#-dashboards)
+- [🗺️ MITRE ATT&CK Coverage](#️-mitre-attck-coverage)
+- [👨‍💻 Author](#-author)
+
 ---
 
 ## 📖 Overview
@@ -83,20 +99,6 @@ The goal is not only to deploy Wazuh, but to design a realistic detection engine
 
 
 
-## 📑 Table of Contents
-
-- [📖 Overview](#-overview)
-- [🎯 Project Objectives](#-project-objectives)
-- [✨ Features](#-features)
-- [📚 Project Modules](#-project-modules)
-- [🏗️ Lab Architecture](#️-lab-architecture)
-- [🛠️ Technologies](#️-technologies)
-- [📂 Repository Structure](#-repository-structure)
-- [🚀 Installation](#-installation)
-- [🧪 Testing](#-testing)
-- [📊 Dashboards](#-dashboards)
-- [🗺️ MITRE ATT&CK Coverage](#️-mitre-attck-coverage)
-- [👨‍💻 Author](#-author)
 
 ---
 ---
