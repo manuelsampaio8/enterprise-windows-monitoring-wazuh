@@ -80,4 +80,23 @@ The goal is not only to deploy Wazuh, but to design a realistic detection engine
 | 11 | [📊 Security Dashboards](docs/11-dashboards.md) | OpenSearch Dashboards | 🔵 Planned |
 | 12 | [🧪 Detection Testing](docs/12-testing.md) | Kali Linux, Windows 11 | 🔵 Planned |
 
+
+
+
+## 📑 Table of Contents
+
+- [📖 Overview](#-overview)
+- [🎯 Project Objectives](#-project-objectives)
+- [✨ Features](#-features)
+- [📚 Project Modules](#-project-modules)
+- [🏗️ Lab Architecture](#️-lab-architecture)
+- [🛠️ Technologies](#️-technologies)
+- [📂 Repository Structure](#-repository-structure)
+- [🚀 Installation](#-installation)
+- [🧪 Testing](#-testing)
+- [📊 Dashboards](#-dashboards)
+- [🗺️ MITRE ATT&CK Coverage](#️-mitre-attck-coverage)
+- [👨‍💻 Author](#-author)
+
+---
 ---
