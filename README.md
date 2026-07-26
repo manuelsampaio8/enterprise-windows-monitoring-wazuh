@@ -59,3 +59,25 @@ The goal is not only to deploy Wazuh, but to design a realistic detection engine
 - ✅ MITRE ATT&CK Mapping
 - ✅ Threat Detection Engineering
 - ✅ Security Event Investigation
+
+
+---
+
+# 📚 Project Modules
+
+| ID | Module | Technologies | Status |
+|:--:|---------|--------------|:------:|
+| 01 | [📖 Project Overview](docs/01-project-overview.md) | Documentation | ✅ Completed |
+| 02 | [🏗 Architecture](docs/02-architecture.md) | Draw.io | 🟡 In Progress |
+| 03 | [⚙ Wazuh Installation](docs/03-wazuh-installation.md) | Ubuntu Server, Wazuh | 🔵 Planned |
+| 04 | [🖥 Windows Agent](docs/04-windows-agent.md) | Windows 11, Wazuh Agent | 🔵 Planned |
+| 05 | [🛡 Sysmon Configuration](docs/05-sysmon.md) | Sysmon | 🔵 Planned |
+| 06 | [🔌 USB Monitoring](docs/06-usb-monitoring.md) | Wazuh, Sysmon | 🔵 Planned |
+| 07 | [🖥 RDP Monitoring](docs/07-rdp-monitoring.md) | Windows Event Logs | 🔵 Planned |
+| 08 | [🌐 Network Monitoring](docs/08-network-monitoring.md) | Sysmon Network Events | 🔵 Planned |
+| 09 | [📜 Custom Detection Rules](docs/09-custom-rules.md) | Wazuh Rules | 🔵 Planned |
+| 10 | [🔇 Noise Reduction](docs/10-noise-reduction.md) | Wazuh | 🔵 Planned |
+| 11 | [📊 Security Dashboards](docs/11-dashboards.md) | OpenSearch Dashboards | 🔵 Planned |
+| 12 | [🧪 Detection Testing](docs/12-testing.md) | Kali Linux, Windows 11 | 🔵 Planned |
+
+---
